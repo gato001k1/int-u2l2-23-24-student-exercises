@@ -21,7 +21,8 @@ For today's activity, you will be editing a website about sloths which is missin
 
 - Create an `<h1>` tag which says “Sloths!”
 - Create a `<p>` tag which says “Sloths are the slowest animal in the world”
-
+<h1> Sloths! </h1>
+<p> Sloths are the slowest animal in the world </p>
 ## Anchor and Image Tags
 
 Wow, you did great with those `<h1>` and `<p>` tags! Now, let's have some fun with other cool tags – `<a href…>` and `<img src…>` tags. 
